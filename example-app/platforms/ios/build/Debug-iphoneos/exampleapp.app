@@ -1,0 +1,1 @@
+/Users/derek/Library/Developer/Xcode/DerivedData/exampleapp-echltbaerrbxaphjmvcvpveohqtk/Build/Intermediates.noindex/ArchiveIntermediates/exampleapp/InstallationBuildProductsLocation/Applications/exampleapp.app
